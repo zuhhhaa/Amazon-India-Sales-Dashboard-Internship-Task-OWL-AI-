@@ -39,6 +39,4 @@ The project focuses on creating an **interactive Amazon India Sales Dashboard** 
 
 ## 📜 Outcome  
 This project demonstrates my skills in **data analysis, visualization, and storytelling**, helping transform raw sales data into actionable business insights.  
-It reflects my ability to work with **Excel, Power BI, and analytical reporting** to support data-driven decision-making.  
-
----
+It reflects my ability to work with **Excel, Power BI, and analytical reporting** to support data-driven decision-making. 
