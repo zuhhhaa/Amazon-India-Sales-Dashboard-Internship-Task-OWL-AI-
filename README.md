@@ -6,7 +6,7 @@ The project focuses on creating an **interactive Amazon India Sales Dashboard** 
 ---
 
 ## 📸 Dashboard Preview  
-[Dashboard Image] https://shorturl.at/HFZzB
+[Dashboard Image] Dashboard image.png
 
 ---
 
