@@ -6,7 +6,7 @@ The project focuses on creating an **interactive Amazon India Sales Dashboard** 
 ---
 
 ## 📸 Dashboard Preview  
-[Dashboard Image](https://tinyurl.com/3zw4nhba)
+[Dashboard Image](https://github.com/zuhhhaa/Amazon-India-Sales-Dashboard-Internship-Task-OWL-AI-/blob/main/Dashboard%20image.png)
 
 ---
 
